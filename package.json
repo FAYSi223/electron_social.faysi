@@ -1,0 +1,12 @@
+{
+  "name": "FAYSi-Social",
+  "version": "1.0.0",
+  "description": "Electron app for https://social.faysi.de/",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^25.3.1"
+  }
+}
